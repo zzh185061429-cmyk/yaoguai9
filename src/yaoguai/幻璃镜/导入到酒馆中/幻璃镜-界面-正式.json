@@ -2,7 +2,7 @@
   "id": "5f2c9a31-8b7d-4e62-9c41-a3d0f6e8b210",
   "scriptName": "幻璃镜-界面",
   "findRegex": "/[\\s\\S]*/s",
-  "replaceString": "```\n<body>\n<script>\n$('body').load('https://cdn.jsdelivr.net/gh/zzh185061429-cmyk/yaoguai8@master/dist/yaoguai/幻璃镜/index.html')\n</script>\n</body>\n```",
+  "replaceString": "```\n<body>\n<script>\n$('body').load('https://cdn.jsdelivr.net/gh/zzh185061429-cmyk/yaoguai9@master/dist/yaoguai/幻璃镜/index.html')\n</script>\n</body>\n```",
   "trimStrings": [],
   "placement": [
     2
